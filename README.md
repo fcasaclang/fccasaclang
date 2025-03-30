@@ -8,15 +8,13 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Franz Clarence C. Casaclang</h1>
         <p>Web Developer | Civil Engineer | Designer</p>
     </header>
-
     <section id="about">
         <h2>About Me</h2>
         <p>I'm a passionate civil engineer learning web development. Welcome to my portfolio!</p>
     </section>
-
     <section id="projects">
         <h2>Projects</h2>
         <div class="project">
@@ -28,13 +26,11 @@
             <p>Description of your project.</p>
         </div>
     </section>
-
     <section id="contact">
         <h2>Contact</h2>
         <p>Email: your.email@example.com</p>
         <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
     </section>
-
     <footer>
         <p>© 2025 Your Name</p>
     </footer>
