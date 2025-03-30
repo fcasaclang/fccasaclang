@@ -1,0 +1,8 @@
+📂 yourusername.github.io  
+ ├── 📄 index.html  (Main page)  
+ ├── 📂 assets  
+ │   ├── 📄 style.css  (CSS file for styling)  
+ │   ├── 📄 script.js  (Optional JavaScript)  
+ ├── 📂 images  (Profile and project images)  
+ ├── 📄 README.md  (Repo description)  
+ ├── 📄 CNAME  (Optional custom domain file)  
